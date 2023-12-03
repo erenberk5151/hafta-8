@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int parametre;
+    cout <<"parametre 1 i yaziniz";
+    cin>>parametre;
+  for (int parametre_degeri=parametre;)
+    else(parametre_degeri%2=1)
+ {
+     parametre_degeri=parametre_degeri*parametre_degeri;
+    cout<<"parametre degeriniz :"<<endl;
+ }
+ if
+ {
+     parametre_degeri=parametre_degeri%2;
+    cout<<"parametre degeriniz :"<<endl;
+ }
+}
